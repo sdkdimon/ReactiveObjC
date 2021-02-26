@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 #import "RACSignal.h"
 
-@class RACCommand;
 @class RACDisposable;
 @class RACMulticastConnection<__covariant ValueType>;
 @class RACScheduler;
